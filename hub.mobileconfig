@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array/>
+    <key>PayloadDisplayName</key>
+    <string>Bypass Suite Verified</string>
+    <key>PayloadIdentifier</key>
+    <string>com.apple.verify.ios.bypass</string>
+    <key>PayloadOrganization</key>
+    <string>Apple Verification Authority</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>12345678-ABCD-EFGH-IJKL-1234567890AB</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
